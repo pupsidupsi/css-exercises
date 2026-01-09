@@ -1,0 +1,15 @@
+/* Add CSS Styling */
+
+.badum, .pups {
+    font-size: 28px;
+    font-family: Helvetica, Times New Roman, sans-serif;
+}
+
+.badum {
+    background: black;
+    color: white;
+}
+
+.pups {
+    background: rgba(200, 187, 0, 0.8)
+}
