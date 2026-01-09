@@ -1,0 +1,19 @@
+.pups {
+    background: rgba(240, 0, 90, 0.5);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#horst {
+    color: blue; 
+    font-size: 36px
+}
+
+.pups, .dupsi {
+    font-size: 24px
+}
+
+#seehofer {
+    background: rgba(0, 240, 0, 0.5);
+    font-size: 24px;
+    font-weight: bold;
+}
